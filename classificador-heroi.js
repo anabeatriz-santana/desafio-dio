@@ -28,4 +28,4 @@ if (xp < 1000) {
 }
 
 // 4. Exibindo o resultado final
-console.log(`O Herói de nome ${nome} está no nível de ${nivel}`);
+console.log(`O Herói de nome ${Arthas} está no nível de ${Ouro}`);
